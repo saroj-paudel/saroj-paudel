@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Saroj Paudel
+<h1 align="center">Hi 👋, I'm Saroj Paudel</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**saroj-paudel/saroj-paudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saroj-paudel&label=Profile%20views&color=0e75b6&style=flat" alt="saroj-paudel" /> </p>
 
-Here are some ideas to get you started:
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saroj-paudel" alt="saroj-paudel" /></a> </p>
+
 - 🔭 I’m currently studying IT
 - 🌱 I’m currently learning python
