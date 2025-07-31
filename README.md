@@ -5,3 +5,5 @@
 
 - 🔭 I’m currently studying IT
 - 🌱 I’m currently learning python
+
+![](https://nirzak-streak-stats.vercel.app/?user=saroj-paudel&theme=vue-dark&hide_border=true)<br>
