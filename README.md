@@ -10,3 +10,4 @@
 
 - 🔭 I’m currently studying IT
 - 🌱 I’m currently learning python
+- I am learning AI from dataCAmp.
