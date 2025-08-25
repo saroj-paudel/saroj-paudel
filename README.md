@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- GitHub Readme Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=saroj-paudel&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="saroj-paudel streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=saroj-paudel&theme=vue-dark&hide_border=true" alt="saroj-paudel streak" />
   <br>
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=saroj-paudel&show_icons=true&theme=vue-dark&hide_border=true" alt="saroj-paudel stats" />
